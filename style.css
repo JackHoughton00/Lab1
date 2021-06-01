@@ -1,0 +1,61 @@
+.questionnaire {
+    /*border: 5px outset red; */ 
+    text-align: center;
+}
+
+.checkbox{
+    text-align:left;
+    padding-left: 600px;
+
+}
+
+p {
+
+    color: #d6d6d6;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Baskerville;
+    text-align: center;
+    color: #d6d6d6;
+    /*b5b5b5*/
+
+}
+
+h4 {
+    font-size: 25px;
+    font-family: Baskerville;
+    text-align: center;
+    color: #d6d6d6;
+
+}
+
+a {
+    font-size: 30px;
+    font-family: Baskerville;
+    text-align: center;
+    color: #d6d6d6;
+    display: block;
+
+}
+/* the image background.jpg was sourced from the website https://www.pexels.com/photo/top-view-of-fern-leaves-3473569/ and was 
+taken by Elijah O'Donnell */
+body { 
+    background-image: url("background.jpg");
+    
+}
+
+form {
+    font-size: 25px;
+    font-family: Baskerville;
+    color: #d6d6d6 ;
+}
+
+img {
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
